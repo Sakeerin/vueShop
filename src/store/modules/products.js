@@ -15,7 +15,7 @@ export default{
                 {
                   id: 'p2',
                   image:
-                    'https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Tent_at_High_Shelf_Camp_cropped.jpg/640px-Tent_at_High_Shelf_Camp_cropped.jpg',
+                    'https://static.vecteezy.com/system/resources/previews/027/820/169/large_2x/camping-tent-high-in-the-mountains-at-sunset-photo.jpg',
                   title: 'Mountain Tent',
                   description: 'A tent for the ambitious outdoor tourist.',
                   price: 129.99,
